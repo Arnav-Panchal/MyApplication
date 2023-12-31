@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="name_hint">Name</string>
+    <string name="mobile_hint">moblie</string>
+    <string name="email_hint">email</string>
+</resources>
